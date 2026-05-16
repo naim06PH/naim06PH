@@ -42,12 +42,16 @@
 <p align="center">
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>
 </p>
 
 <h3>Data & Cloud</h3>
 <p align="center">
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white"></a>
   <a href="#"><img alt="IICS" src="https://img.shields.io/badge/IICS-%23007ACC.svg?style=plastic&logo=informatica&logoColor=white"></a>
+  <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=plastic&logo=dbt&logoColor=white"></a>
+  <a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-%2356B9EB.svg?style=plastic&logo=snowflake&logoColor=white"></a>
+  <a href="#"><img alt="DbSchema" src="https://img.shields.io/badge/DbSchema-%233B82F6.svg?style=plastic&logo=dgraph&logoColor=white"></a>
 </p>
 
 <h3>Tools & Software</h3>
@@ -60,6 +64,7 @@
 
 <h2>💻 Featured Projects</h2>
 <ul>
+  <li><strong>TFC Autoaudit-AI:</strong><a href="https://github.com/naim06PH/Autoaudit-AI"></a>
   <li><strong>Personal Portfolio:</strong> Showcase of my projects, skills, and professional growth.</li>
   <li><strong><a href="https://www.blessing-indigo.es/">Blessing Indigo Website:</a></strong> Full design, development, and deployment. Implemented backend logic and form handling using PHPMailer.</li>
 </ul>
@@ -71,7 +76,6 @@
   <li>☁️ Deepening knowledge in AWS (data services)</li>
   <li>🚀 Building real-world data projects</li>
 </ul>
-
 <h2>📫 Contact</h2>
 <p align="center">
   <a href="mailto:naimhermida@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
