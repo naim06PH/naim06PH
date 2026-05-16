@@ -64,7 +64,7 @@
 
 <h2>💻 Featured Projects</h2>
 <ul>
-  <li><strong>TFC Autoaudit-AI:</strong><a href="https://github.com/naim06PH/Autoaudit-AI"></a>
+  <li><strong>TFC Autoaudit-AI:</strong><a href="https://github.com/naim06PH/Autoaudit-AI"></a></li>
   <li><strong>Personal Portfolio:</strong> Showcase of my projects, skills, and professional growth.</li>
   <li><strong><a href="https://www.blessing-indigo.es/">Blessing Indigo Website:</a></strong> Full design, development, and deployment. Implemented backend logic and form handling using PHPMailer.</li>
 </ul>
